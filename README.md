@@ -62,3 +62,7 @@ FFmpeg installation completed successfully.
 ## License
 
 This project is licensed under the GNU GPLv3. See the [LICENSE](LICENSE) file for more details.
+
+## TODO
+
+-- Make it compatible with FreBSD and other non-debian distros.
