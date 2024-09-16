@@ -1,0 +1,8 @@
+[package]
+name = "install_ffmpeg_with_rnnoise"
+version = "0.1.0"
+edition = "2021"
+authors = "Nestor Wheelock <nestor@nestorwheelock.com>"
+
+[dependencies]
+num_cpus = "1.13"
